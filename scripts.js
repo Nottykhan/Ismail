@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+// Ensure JS functionality is ready if needed in the future
+document.addEventListener('DOMContentLoaded', () => {
     console.log("Page loaded successfully.");
-    // Add any interactive functionality here if needed
 });
